@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+#checkbox {
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
